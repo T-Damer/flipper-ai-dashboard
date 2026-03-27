@@ -1,0 +1,15 @@
+.DS_Store
+*.pyc
+*.pyo
+__pycache__/
+.venv/
+.ufbt/
+build/
+dist/
+flipper/.vscode/
+bridge/out/
+bridge/providers.local.json
+flipper/build/
+flipper/dist/
+*.fap
+*.elf

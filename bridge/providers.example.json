@@ -1,0 +1,34 @@
+{
+  "providers": [
+    {
+      "id": "chatgpt",
+      "name": "ChatGPT",
+      "icon": "GP",
+      "used": 36,
+      "window": "GPT-5 Plus",
+      "reset": "Renews Apr 2",
+      "detail": "Manual web quota snapshot",
+      "source": "manual"
+    },
+    {
+      "id": "cursor",
+      "name": "Cursor",
+      "icon": "CU",
+      "used": 58,
+      "window": "Fast requests",
+      "reset": "Resets tomorrow",
+      "detail": "Example placeholder for your own collector",
+      "source": "manual"
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "icon": "GM",
+      "used": 21,
+      "window": "Daily quota",
+      "reset": "Resets tonight",
+      "detail": "Wire your own bridge or edit manually",
+      "source": "manual"
+    }
+  ]
+}
